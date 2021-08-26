@@ -1,0 +1,20 @@
+{
+  "products": [
+    { "id": "food1", "title": "Pizza Hawaii","image": "/images/pizza.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 19, "availableSizes": [ "S","M", "L"]},
+    { "id": "food2", "title": "Pizza Italian","image": "/images/pizza2.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 21, "availableSizes": ["S", "L"] },
+    { "id": "food3", "title": "Cheese Pizza","image": "/images/pizza3.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 16, "availableSizes": [ "S","M", "L"] },
+    { "id": "food4", "title": "Pizza Domini","image": "/images/pizza4.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 20, "availableSizes": ["M", "S"] },
+    { "id": "food5", "title": "Pizza VietNam","image": "/images/pizza5.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 25, "availableSizes": ["M", "L"] },
+    { "id": "food6", "title": "Pizza American","image": "/images/pizza.jpg", "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto", "price": 18, "availableSizes": [ "S","M", "L"] },
+    { "id": "food7", "title": "Doughlicious","image": "/images/ds1.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S", "L"]},
+    { "id": "food8", "title": "Caramel Wonder","image": "/images/ds2.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S","M"]},
+    { "id": "food9", "title": "Brownie Bucnh","image": "/images/ds3.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S","M", "L"]},
+    { "id": "food10", "title": "Chicken chicken","image": "/images/ck1.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S", "L"]},
+    { "id": "food11", "title": "Chicken & Potato","image": "/images/ck2.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "M", "L"]},
+    { "id": "food12", "title": "Cheese Potato","image": "/images/ck3.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S","M", "L"]},
+    { "id": "food13", "title": "Brownie Bucnh","image": "/images/ck4.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S","M", "L"]},
+    { "id": "food14", "title": "Chicken HS","image": "/images/ck7.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "S", "L"]},
+    { "id": "food15", "title": "White Potato","image": "/images/ck6.png", "description": "Belgian chocolate glazed donuts covered in icing with sprinkles on top", "price": 19, "availableSizes": [ "M", "L"]}
+    
+  ]
+}
